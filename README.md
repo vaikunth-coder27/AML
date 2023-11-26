@@ -26,6 +26,9 @@ The key steps include:
 
 ## Setup
 
+- The development of this project was done on python 3.8.5 version
+- for further environment setup execute the below command to install required libraries
+
  ```Shell
     pip install -r requirements.txt
  ```
